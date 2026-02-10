@@ -35,6 +35,8 @@ The project reveals major spending categories and provides actionable savings in
 
 **Created by:** Aanya
 [expense.xlsx](https://github.com/user-attachments/files/25218518/expense.xlsx)
-[expense.xlsx](https://github.com/user-attachments/files/25218486/expense.xlsx)
+[expense.ipynb](https://github.com/user-attachments/files/25218740/expense.ipynb)
+[expense (1).xlsx](https://github.com/user-attachments/files/25218735/expense.1.xlsx)
+
 
 
